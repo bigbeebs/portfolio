@@ -1,0 +1,72 @@
+.btn{
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+
+.btn:hover{
+    color: black;
+}
+.col-image{
+    width: 250px;
+    height: 500px;
+}
+
+.wrapper{
+    float: left;
+    width: 25%;
+    height: 280px;
+}
+.middle{
+    float: left;
+    width: 50%;
+    height: 280px;
+}
+.right{
+    float: right;
+    width: 25%;
+    height: 280px;
+}
+span{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1, h2{
+  color: #fff;  
+}
+p{
+    color: #fff;
+}
+body{
+    background-color: black;
+}
+h3{
+    color: red;
+    font-size: smaller;
+}
+small{
+    color: #fff;
+}
+.chat{
+   position: absolute;
+   right:  0;
+}
+.eclipse{
+    background-color: blue;
+    height: 100px;
+    width: 100;
+    border-radius: 50%;
+}
+
+
+.social{
+    color: #fff;
+    
+}
+a{
+    color: red;
+    font-size: smaller;
+}
